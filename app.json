@@ -1,5 +1,5 @@
 {
-  "name": "NEXUS-XMD",
+  "name": "𝐷𝐵𝑌✯-XMD",
   "description": "Javascript WhatsApp bot made by Pkdriller",
   "logo": "https://files.catbox.moe/z62ts0.jpg",
   "keywords": ["NEXUS-XMD"],
@@ -8,15 +8,15 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "",
       "required": true,
-      "value": ""
+      "value": "true"
     },  
     
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "NEXUS-XMD"
+      "value": "𝐷𝐵𝑌✯-XMD"
     }, 
       
     "PREFIX": {
@@ -28,7 +28,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": false,
-      "value": "public"
+      "value": "private"
       
     },
     
@@ -79,27 +79,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY NEXUS-XMD 🖤*"
+      "value": "*SEEN YOUR STATUS BY 𝐷𝐵𝑌✯-XMD 🫗*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Pkdriller"
+      "value": "𝐷𝐵𝑌✯🫗"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254794146821"
+      "value": "263789085533"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "NEXUS-XMD"
+      "value": "𝐷𝐵𝑌✯-XMD"
 
       }, 
 
@@ -138,13 +138,13 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Pkdriller*"
+      "value": "*© ᵖᵒʷᵉʳᵉᵈ ᵇʸ 𝐷𝐵𝑌✯*"
     },
 
       "DELETE_LINKS": {
       "description": "remove links from group automatically without removing member",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     
     "AUTO_RECORDING": {
@@ -156,7 +156,7 @@
     "AUTO_TYPING": {
       "description": "Make it true if you want auto typing.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
 
     "AUTO_REACT": {
@@ -193,7 +193,7 @@
     "WELCOME": {
       "description": "make it true if want goodbye and welcome message in groups.",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
 
     "READ_MESSAGE": {
